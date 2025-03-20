@@ -12,6 +12,16 @@ Welcome to my personal portfolio website! 🎉 This project is hosted on **GitHu
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live version of my portfolio website:
+
+🔗 [theviltrumite.github.io/mehmeterenballi](https://theviltrumite.github.io/mehmeterenballi/)
+
+Explore my projects, skills, and more through this interactive and user-friendly interface. Feel free to share your feedback!
+
+---
+
 ## 🚀 Project Goals
 - Demonstrate proficiency in web development.
 - Showcase personal and professional projects.
@@ -30,7 +40,7 @@ Welcome to my personal portfolio website! 🎉 This project is hosted on **GitHu
 
 ## 📂 Directory Structure
 ```plaintext
-static-portfolio/
+my-web-app/
 │
 ├── index.html          # Main entry point
 ├── style.css           # Styling for the application
