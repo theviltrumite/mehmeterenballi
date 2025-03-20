@@ -30,7 +30,7 @@ Welcome to my personal portfolio website! 🎉 This project is hosted on **GitHu
 
 ## 📂 Directory Structure
 ```plaintext
-my-web-app/
+static-portfolio/
 │
 ├── index.html          # Main entry point
 ├── style.css           # Styling for the application
